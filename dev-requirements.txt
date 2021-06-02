@@ -3,7 +3,7 @@ bumpversion==0.6.0
 pre-commit==2.13.0
 pytest==6.2.4
 pytest-vcr==1.0.2
-pytest-cov==2.12.0
+pytest-cov==2.12.1
 sphinx==4.0.1
 tox==3.23.1
 sphinx-autobuild==2021.3.14
